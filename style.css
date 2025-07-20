@@ -1,0 +1,28 @@
+body{
+    margin:0px;
+    padding: 0px;
+    /* background-color: black; */
+    color: azure;
+    text-align: center;
+    background-image: url(https://th.bing.com/th/id/OIP.hXGqcnfDUTmLfpdvF3v3DgHaEo?rs=1&pid=ImgDetMain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    font-size: 45px;
+
+}
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 40px;
+    border-radius: 20px;
+    margin: 10px;
+    border-style: none;
+}
+
+.btn:hover{
+    background-color: yellowgreen;
+    cursor: pointer;
+}
