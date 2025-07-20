@@ -10,8 +10,9 @@ Clean and modern UI
 
 Fast and lightweight
 
-🚀 Live Demo
-View Live Calculator
+## 🚀 Live Demo
+
+👉 [View Live Calculator](https://vidhimahajan06.github.io/SCT_WB_1/)
 
 📂 Technologies Used
 HTML5
